@@ -1,5 +1,5 @@
 <h1 align="center"> print("Hello World...!, I'm Kalicharan S") <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="50px"></h1>
-<h3 align="center">Software Engineer | Master of Science in Information Technology </h3>
+<h3 align="center">Software Engineer | Masters - Information Technology </h3>
 <h3 align="center">Java/Spring Boot Tech Stack </h3>
 
 
