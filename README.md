@@ -7,7 +7,7 @@
 </p>
 
 
-<h3>Languages and Tools:</h3>
+<!-- <h3>Languages and Tools:</h3>
 
 <div align="left">
   <a href="https://aws.amazon.com/amplify/" target="_blank"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /></a>
@@ -27,7 +27,7 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /></a>
-</div>
+</div> -->
 
 
 ![skccharan's Stats](https://github-readme-stats-skccharan.vercel.app/api?username=skccharan&hide=stars,issues&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)|![skccharan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=skccharan&theme=default&hide_border=true)
